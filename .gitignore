@@ -2,3 +2,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.py[cod]
 .idea/
+
+# Huge great big data files, let's not upload those!
+erai_t2m_daily.nc
+erai_tp_daily.nc
